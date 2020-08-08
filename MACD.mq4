@@ -1,5 +1,6 @@
 string getMACD()
 {
+   string macd;
    int MACD =  iMACD(
                NULL,           // symbol
                0,        // timeframe
